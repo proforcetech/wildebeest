@@ -10,6 +10,6 @@ node_compat = true
 
 [[d1_databases]]
 binding = "DATABASE"
-database_name = "wildebeest"
+database_name = "noisy-band-7308-db"
 # Replace this database_id with the id of the database created by `yarn deploy:init`.
-database_id = "83821907-97fd-44b4-8f21-e3d6b736e7ef"
+database_id = "b9561918-a57b-4455-b9c1-4d1de053b6b2"
